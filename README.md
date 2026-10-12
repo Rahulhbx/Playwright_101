@@ -99,3 +99,20 @@ Then on GitHub: **Repo → Settings → Collaborators → Add people →** `admi
 | Out of automation minutes | Email `admin@testmuaicertifications.com` or `support@testmuai.com` to extend the trial |
 | Connection / version error on the grid | Pin an earlier Playwright, e.g. `npm i -D @playwright/test@<previous-version>` |
 | Scenario 3 error-message assertion fails | The test reads the browser's built-in validation text and matches `/please fill/i`; check the exact wording in the failing session video and adjust the regex in `tests/scenario3-input-form.spec.js` |
+
+
+1st_code:
+<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/233eacbd-97c1-436b-921b-94deac27a130" />
+
+2nd code:
+<img width="956" height="479" alt="image" src="https://github.com/user-attachments/assets/72203216-745c-4c63-a07f-159feb61961f" />
+
+<img width="955" height="467" alt="image" src="https://github.com/user-attachments/assets/718f4ecb-d770-400c-a919-ec59b96825e6" />
+
+3rd code: 
+<img width="958" height="473" alt="image" src="https://github.com/user-attachments/assets/c70a9d50-b736-4714-a938-9b31fb39050a" />
+
+<img width="952" height="477" alt="image" src="https://github.com/user-attachments/assets/69b08a2e-1e33-40fb-9e39-31139d5740d9" />
+
+
+
