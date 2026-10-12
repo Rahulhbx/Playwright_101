@@ -1,0 +1,18 @@
+{
+  "name": "playwright-101-assignment",
+  "version": "1.0.0",
+  "description": "TestMu AI Playwright 101 certification assignment - 3 scenarios run in parallel on the TestMu AI cloud grid",
+  "private": true,
+  "scripts": {
+    "test": "playwright test",
+    "test:cloud": "playwright test",
+    "test:local": "playwright test -c playwright.local.config.js",
+    "report": "playwright show-report"
+  },
+  "keywords": ["playwright", "testmu-ai", "lambdatest", "automation"],
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "latest",
+    "dotenv": "latest"
+  }
+}

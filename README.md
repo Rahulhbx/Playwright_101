@@ -1,5 +1,3 @@
-# Playwright_101
-created 3 different scenarios using playwright . 
 # Playwright 101 Assignment — TestMu AI Certification
 
 Automates the 3 required scenarios on the TestMu AI Selenium Playground using
